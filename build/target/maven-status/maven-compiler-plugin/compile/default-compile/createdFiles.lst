@@ -1,0 +1,5 @@
+jenkins/ServiceBusConfiguration.class
+jenkins/publisher/UpdateEventServiceBusDispatcherWithListener.class
+jenkins/ServiceBusProperties.class
+jenkins/listener/ServiceBusListener$1.class
+jenkins/listener/ServiceBusListener.class
